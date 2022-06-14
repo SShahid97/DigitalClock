@@ -150,7 +150,7 @@ export default function App() {
 
       <div className="footer">
         <div>
-          Devloped with{" "}
+          Developed with{" "}
           <span
             style={{
               color: "red",
