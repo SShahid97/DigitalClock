@@ -147,6 +147,23 @@ export default function App() {
   return (
     <div className="App">
       <Timer />
+
+      <div className="footer">
+        <div>
+          Devloped with{" "}
+          <span
+            style={{
+              color: "red",
+              fontWeight: "600",
+              fontSize: "2rem",
+              fontFamily: "system-ui"
+            }}
+          >
+            &hearts;
+          </span>{" "}
+          by Malik Shahid
+        </div>
+      </div>
     </div>
   );
 }

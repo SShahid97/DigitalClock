@@ -95,6 +95,16 @@ body {
   box-shadow: 0 0 20px var(--clr), 0 0 60px var(--clr);
 }
 
+.footer {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  /* border: 1px solid red; */
+  margin-top: 10px;
+}
 @media (max-width: 650px) {
   /* #time {
     padding:5px;
